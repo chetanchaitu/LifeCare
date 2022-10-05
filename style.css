@@ -39,11 +39,11 @@
     IMPORT FILES
 -------------------------------------------------------------------*/
 
-@import url(assests/css/animate.css);
-@import url(assests/css/flaticon.css);
-@import url(assests/css/prettyPhoto.css);
-@import url(assests/css/owl.carousel.css);
-@import url(assests/css/font-awesome.min.css);
+@import url(css/animate.css);
+@import url(css/flaticon.css);
+@import url(css/prettyPhoto.css);
+@import url(css/owl.carousel.css);
+@import url(css/font-awesome.min.css);
 
 /*------------------------------------------------------------------
     SKELETON
@@ -57,7 +57,7 @@ body {
 }
 
 body.demos .section {
-    background: url(assests/images/bg.png) repeat top center #f2f3f5;
+    background: url(images/bg.png) repeat top center #f2f3f5;
 }
 
 body.demos .section-title img {
